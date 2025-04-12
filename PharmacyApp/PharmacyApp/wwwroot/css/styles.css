@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f7fa;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.auth-form {
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+    width: 350px;
+}
+
+    .auth-form h2 {
+        text-align: center;
+        margin-bottom: 20px;
+        color: #333;
+    }
+
+    .auth-form form {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .auth-form input {
+        margin-bottom: 15px;
+        padding: 10px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        outline: none;
+        transition: border-color 0.3s;
+    }
+
+        .auth-form input:focus {
+            border-color: #4a90e2;
+        }
+
+    .auth-form button {
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        background-color: #4a90e2;
+        color: white;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+        .auth-form button:hover {
+            background-color: #357abd;
+        }
+
+.redirect-text {
+    text-align: center;
+    margin-top: 15px;
+}
+
+    .redirect-text a {
+        color: #4a90e2;
+        text-decoration: none;
+    }
+
+        .redirect-text a:hover {
+            text-decoration: underline;
+        }
