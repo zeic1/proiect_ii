@@ -1,8 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using PharmacyApp.Data;
 using PharmacyApp.Models;
+using PharmacyApp.Data;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 
 namespace PharmacyApp.Pages;
 
@@ -18,33 +19,37 @@ public class RegisterModel : PageModel
     [BindProperty]
     public RegisterInput Input { get; set; } = new();
 
-    public string Message { get; set; } = string.Empty;
-
-    public void OnGet() { }
+    public string Message { get; set; } = "";
 
     public async Task<IActionResult> OnPostAsync()
     {
         if (!ModelState.IsValid) return Page();
 
-        var hasher = new PasswordHasher<User>();
+        // Check if user already exists
+        if (await _context.Users.AnyAsync(u => u.Email == Input.Email))
+        {
+            Message = "Email is already registered.";
+            return Page();
+        }
+
         var user = new User
         {
             Username = Input.Username,
             Email = Input.Email,
-            PasswordHash = hasher.HashPassword(null, Input.Password)
+            PasswordHash = new PasswordHasher<User>().HashPassword(null, Input.Password)
         };
 
         _context.Users.Add(user);
         await _context.SaveChangesAsync();
 
-        Message = "User registered successfully!";
-        return Page();
+        Message = "Registration successful!";
+        return RedirectToPage("/Login");
     }
 
     public class RegisterInput
     {
-        public string Username { get; set; } = null!;
-        public string Email { get; set; } = null!;
-        public string Password { get; set; } = null!;
+        public string Username { get; set; } = string.Empty;
+        public string Email { get; set; } = string.Empty;
+        public string Password { get; set; } = string.Empty;
     }
 }
