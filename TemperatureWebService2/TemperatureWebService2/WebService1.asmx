@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="TemperatureWebService2.asmx.cs" Class="TemperatureWebService2.UtilityService" %>

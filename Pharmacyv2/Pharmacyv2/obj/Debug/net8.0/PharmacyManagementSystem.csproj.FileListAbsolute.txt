@@ -1,0 +1,9 @@
+C:\Users\blewd\WebstormProjects\proiect_ii\Pharmacyv2\Pharmacyv2\obj\Debug\net8.0\PharmacyManagementSystem.csproj.AssemblyReference.cache
+C:\Users\blewd\WebstormProjects\proiect_ii\Pharmacyv2\Pharmacyv2\obj\Debug\net8.0\PharmacyManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blewd\WebstormProjects\proiect_ii\Pharmacyv2\Pharmacyv2\obj\Debug\net8.0\PharmacyManagementSystem.AssemblyInfoInputs.cache
+C:\Users\blewd\WebstormProjects\proiect_ii\Pharmacyv2\Pharmacyv2\obj\Debug\net8.0\PharmacyManagementSystem.AssemblyInfo.cs
+C:\Users\blewd\WebstormProjects\proiect_ii\Pharmacyv2\Pharmacyv2\obj\Debug\net8.0\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\blewd\WebstormProjects\proiect_ii\Pharmacyv2\Pharmacyv2\obj\Debug\net8.0\PharmacyManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\blewd\WebstormProjects\proiect_ii\Pharmacyv2\Pharmacyv2\obj\Debug\net8.0\PharmacyManagementSystem.sourcelink.json
+C:\Users\blewd\WebstormProjects\proiect_ii\Pharmacyv2\Pharmacyv2\obj\Debug\net8.0\PharmacyManagementSystem.RazorAssemblyInfo.cache
+C:\Users\blewd\WebstormProjects\proiect_ii\Pharmacyv2\Pharmacyv2\obj\Debug\net8.0\PharmacyManagementSystem.RazorAssemblyInfo.cs

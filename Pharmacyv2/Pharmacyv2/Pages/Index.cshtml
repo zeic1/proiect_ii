@@ -1,0 +1,26 @@
+﻿@page "/"
+@using PharmacyManagementSystem.Pages
+
+<PageTitle>Pharmacy Management System</PageTitle>
+
+<div class="landing-page">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-8 text-center">
+                <h1 class="display-4 mb-4">Welcome to Pharmacy Management System</h1>
+                <p class="lead mb-5">
+                    A comprehensive solution for managing your pharmacy operations,
+                    inventory, orders, and payments.
+                </p>
+                <div class="d-flex justify-content-center gap-3">
+                    <a href="/login" class="btn btn-primary btn-lg px-4">Login</a>
+                    <a href="/register" class="btn btn-outline-primary btn-lg px-4">Register</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@model PharmacyManagementSystem.Pages.Public.IndexModel
+@{
+}
