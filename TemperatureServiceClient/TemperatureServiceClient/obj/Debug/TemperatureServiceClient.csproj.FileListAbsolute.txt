@@ -1,0 +1,9 @@
+C:\Users\blewd\WebstormProjects\proiect_ii\TemperatureServiceClient\TemperatureServiceClient\obj\Debug\TemperatureServiceClient.csproj.AssemblyReference.cache
+C:\Users\blewd\WebstormProjects\proiect_ii\TemperatureServiceClient\TemperatureServiceClient\obj\Debug\TemperatureServiceClient.Properties.Resources.resources
+C:\Users\blewd\WebstormProjects\proiect_ii\TemperatureServiceClient\TemperatureServiceClient\obj\Debug\TemperatureServiceClient.csproj.GenerateResource.cache
+C:\Users\blewd\WebstormProjects\proiect_ii\TemperatureServiceClient\TemperatureServiceClient\obj\Debug\TemperatureServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\blewd\WebstormProjects\proiect_ii\TemperatureServiceClient\TemperatureServiceClient\bin\Debug\TemperatureServiceClient.exe.config
+C:\Users\blewd\WebstormProjects\proiect_ii\TemperatureServiceClient\TemperatureServiceClient\bin\Debug\TemperatureServiceClient.exe
+C:\Users\blewd\WebstormProjects\proiect_ii\TemperatureServiceClient\TemperatureServiceClient\bin\Debug\TemperatureServiceClient.pdb
+C:\Users\blewd\WebstormProjects\proiect_ii\TemperatureServiceClient\TemperatureServiceClient\obj\Debug\TemperatureServiceClient.exe
+C:\Users\blewd\WebstormProjects\proiect_ii\TemperatureServiceClient\TemperatureServiceClient\obj\Debug\TemperatureServiceClient.pdb

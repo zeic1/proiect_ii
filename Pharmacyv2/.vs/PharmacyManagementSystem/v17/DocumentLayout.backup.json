@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyv2\\pharmacyv2\\data\\pharmacydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|solutionrelative:pharmacyv2\\data\\pharmacydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyv2\\pharmacyv2\\services\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|solutionrelative:pharmacyv2\\services\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyv2\\pharmacyv2\\data\\entities\\pharmacist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|solutionrelative:pharmacyv2\\data\\entities\\pharmacist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyv2\\pharmacyv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|solutionrelative:pharmacyv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyv2\\pharmacyv2\\models\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|solutionrelative:pharmacyv2\\models\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyv2\\pharmacyv2\\services\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|solutionrelative:pharmacyv2\\services\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyv2\\pharmacyv2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|solutionrelative:pharmacyv2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyv2\\pharmacyv2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|solutionrelative:pharmacyv2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyv2\\pharmacyv2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|solutionrelative:pharmacyv2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyv2\\pharmacyv2\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|solutionrelative:pharmacyv2\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyv2\\pharmacyv2\\pharmacymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|solutionrelative:pharmacyv2\\pharmacymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyv2\\pharmacyv2\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|solutionrelative:pharmacyv2\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyv2\\pharmacyv2\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|solutionrelative:pharmacyv2\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyv2\\pharmacyv2\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61DBF772-E8C1-4310-93CD-8182E12EE797}|Pharmacyv2\\PharmacyManagementSystem.csproj|solutionrelative:pharmacyv2\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Services\\Class.cs",
+              "RelativeDocumentMoniker": "Pharmacyv2\\Services\\Class.cs",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Services\\Class.cs",
+              "RelativeToolTip": "Pharmacyv2\\Services\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:21:08.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IServices.cs",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Services\\IServices.cs",
+              "RelativeDocumentMoniker": "Pharmacyv2\\Services\\IServices.cs",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Services\\IServices.cs",
+              "RelativeToolTip": "Pharmacyv2\\Services\\IServices.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA8wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:18:38.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entities.cs",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Models\\Entities.cs",
+              "RelativeDocumentMoniker": "Pharmacyv2\\Models\\Entities.cs",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Models\\Entities.cs",
+              "RelativeToolTip": "Pharmacyv2\\Models\\Entities.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:18:00.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pharmacyv2\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pharmacyv2\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:01:37.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pharmacyv2\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pharmacyv2\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T10:01:25.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\appsettings.json",
+              "RelativeDocumentMoniker": "Pharmacyv2\\appsettings.json",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\appsettings.json",
+              "RelativeToolTip": "Pharmacyv2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T09:54:17.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PharmacyManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\PharmacyManagementSystem.csproj",
+              "RelativeDocumentMoniker": "Pharmacyv2\\PharmacyManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\PharmacyManagementSystem.csproj",
+              "RelativeToolTip": "Pharmacyv2\\PharmacyManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T09:53:47.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Program.cs",
+              "RelativeDocumentMoniker": "Pharmacyv2\\Program.cs",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Program.cs",
+              "RelativeToolTip": "Pharmacyv2\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:27:08.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pharmacist.cs",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Data\\Entities\\Pharmacist.cs",
+              "RelativeDocumentMoniker": "Pharmacyv2\\Data\\Entities\\Pharmacist.cs",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Data\\Entities\\Pharmacist.cs",
+              "RelativeToolTip": "Pharmacyv2\\Data\\Entities\\Pharmacist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:48:26.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PharmacyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Data\\PharmacyDbContext.cs",
+              "RelativeDocumentMoniker": "Pharmacyv2\\Data\\PharmacyDbContext.cs",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Data\\PharmacyDbContext.cs",
+              "RelativeToolTip": "Pharmacyv2\\Data\\PharmacyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:46:29.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Pharmacyv2\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Pharmacyv2\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:55:06.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Pharmacyv2\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Components\\Routes.razor",
+              "RelativeToolTip": "Pharmacyv2\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T08:27:00.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Pharmacyv2\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Components\\App.razor",
+              "RelativeToolTip": "Pharmacyv2\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T08:26:59.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Pharmacyv2\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\Pharmacyv2\\Pharmacyv2\\Components\\_Imports.razor",
+              "RelativeToolTip": "Pharmacyv2\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T08:26:57.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

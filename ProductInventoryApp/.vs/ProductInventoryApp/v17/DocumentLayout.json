@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\ProductInventoryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50FE12B1-EE95-4F61-9729-EAE47808BB6F}|ProductInventoryApp\\ProductInventoryApp.csproj|C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\ProductInventoryApp\\productinventoryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50FE12B1-EE95-4F61-9729-EAE47808BB6F}|ProductInventoryApp\\ProductInventoryApp.csproj|solutionrelative:productinventoryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FE12B1-EE95-4F61-9729-EAE47808BB6F}|ProductInventoryApp\\ProductInventoryApp.csproj|C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\ProductInventoryApp\\productinventoryapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50FE12B1-EE95-4F61-9729-EAE47808BB6F}|ProductInventoryApp\\ProductInventoryApp.csproj|solutionrelative:productinventoryapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\blewd\\source\\repos\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_BLEWD_WEBSTORMPROJECTS_PROIECT_II_PRODUCTINVENTORYAPP_PRODUCTINVENTORYAPP_PRODUCTINVENTORY.MDF/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FE12B1-EE95-4F61-9729-EAE47808BB6F}|ProductInventoryApp\\ProductInventoryApp.csproj|C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\ProductInventoryApp\\productinventoryapp\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50FE12B1-EE95-4F61-9729-EAE47808BB6F}|ProductInventoryApp\\ProductInventoryApp.csproj|solutionrelative:productinventoryapp\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FE12B1-EE95-4F61-9729-EAE47808BB6F}|ProductInventoryApp\\ProductInventoryApp.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\productinventoryapp\\productinventoryapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50FE12B1-EE95-4F61-9729-EAE47808BB6F}|ProductInventoryApp\\ProductInventoryApp.csproj|solutionrelative:productinventoryapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\blewd\\source\\repos\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\ProductInventoryApp\\ProductInventoryApp\\Program.cs",
+              "RelativeDocumentMoniker": "ProductInventoryApp\\Program.cs",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\ProductInventoryApp\\ProductInventoryApp\\Program.cs",
+              "RelativeToolTip": "ProductInventoryApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:29:54.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\ProductInventoryApp\\ProductInventoryApp\\Form1.cs",
+              "RelativeDocumentMoniker": "ProductInventoryApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\ProductInventoryApp\\ProductInventoryApp\\Form1.cs",
+              "RelativeToolTip": "ProductInventoryApp\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:27:24.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\ProductInventoryApp\\ProductInventoryApp\\DataAccess.cs",
+              "RelativeDocumentMoniker": "ProductInventoryApp\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\ProductInventoryApp\\ProductInventoryApp\\DataAccess.cs",
+              "RelativeToolTip": "ProductInventoryApp\\DataAccess.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAADwv28AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:24:42.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Products [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_BLEWD_WEBSTORMPROJECTS_PROIECT_II_PRODUCTINVENTORYAPP_PRODUCTINVENTORYAPP_PRODUCTINVENTORY.MDF/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "dbo.Products [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-06T13:23:04.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\blewd\\source\\repos\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\SQLQuery1.sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-06T13:20:20.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\ProductInventoryApp\\ProductInventoryApp\\Form1.cs",
+              "RelativeDocumentMoniker": "ProductInventoryApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\ProductInventoryApp\\ProductInventoryApp\\Form1.cs [Design]",
+              "RelativeToolTip": "ProductInventoryApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:17:13.905Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

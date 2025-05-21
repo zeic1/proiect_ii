@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyapp\\pharmacyapp\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|solutionrelative:pharmacyapp\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyapp\\pharmacyapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|solutionrelative:pharmacyapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyapp\\pharmacyapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|solutionrelative:pharmacyapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyapp\\pharmacyapp\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|solutionrelative:pharmacyapp\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyapp\\pharmacyapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|solutionrelative:pharmacyapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyapp\\pharmacyapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|solutionrelative:pharmacyapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyapp\\pharmacyapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|solutionrelative:pharmacyapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyapp\\pharmacyapp\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|solutionrelative:pharmacyapp\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyapp\\pharmacyapp\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|solutionrelative:pharmacyapp\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyapp\\pharmacyapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|solutionrelative:pharmacyapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyapp\\pharmacyapp\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|solutionrelative:pharmacyapp\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyapp\\pharmacyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,22 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyapp\\pharmacyapp\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|solutionrelative:pharmacyapp\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyapp\\pharmacyapp\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|solutionrelative:pharmacyapp\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyapp\\pharmacyapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|solutionrelative:pharmacyapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyapp\\pharmacyapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|solutionrelative:pharmacyapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyapp\\pharmacyapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|solutionrelative:pharmacyapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyapp\\pharmacyapp\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -59,16 +75,8 @@
       "RelativeMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|solutionrelative:pharmacyapp\\pharmacyapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyapp\\pharmacyapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|solutionrelative:pharmacyapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyapp\\pharmacyapp\\wwwroot\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|solutionrelative:pharmacyapp\\wwwroot\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\blewd\\webstormprojects\\proiect_ii\\pharmacyapp\\pharmacyapp\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8B9858EF-66B9-4A52-8997-6FE869E34F1A}|PharmacyApp\\PharmacyApp.csproj|solutionrelative:pharmacyapp\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,60 +86,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "PharmacyApp\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "PharmacyApp\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T10:28:42.287Z"
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "PharmacyApp\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Login.cshtml",
+              "RelativeToolTip": "PharmacyApp\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T10:09:53.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "PharmacyApp\\Pages\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Register.cshtml.cs",
-              "RelativeToolTip": "PharmacyApp\\Pages\\Register.cshtml.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAADwvzcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T10:15:26.839Z"
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "PharmacyApp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "PharmacyApp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T09:07:20.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "PharmacyApp\\Pages\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Login.cshtml.cs",
-              "RelativeToolTip": "PharmacyApp\\Pages\\Login.cshtml.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwDoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T10:15:22.417Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PharmacyApp\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "PharmacyApp\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T10:09:27.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "styles.css",
-              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\wwwroot\\css\\styles.css",
-              "RelativeDocumentMoniker": "PharmacyApp\\wwwroot\\css\\styles.css",
-              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\wwwroot\\css\\styles.css",
-              "RelativeToolTip": "PharmacyApp\\wwwroot\\css\\styles.css",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwDcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-10T10:11:54.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Models\\User.cs",
               "RelativeDocumentMoniker": "PharmacyApp\\Models\\User.cs",
@@ -143,19 +138,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PharmacyApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PharmacyApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T10:28:42.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "PharmacyApp\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "PharmacyApp\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T10:15:22.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "PharmacyApp\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Error.cshtml",
+              "RelativeToolTip": "PharmacyApp\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T17:34:37.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PharmacyApp\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "PharmacyApp\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T17:35:02.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PharmacyApp\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "PharmacyApp\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T10:32:54.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Register.cshtml",
               "RelativeDocumentMoniker": "PharmacyApp\\Pages\\Register.cshtml",
               "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Register.cshtml",
               "RelativeToolTip": "PharmacyApp\\Pages\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-10T10:10:35.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Program.cs",
               "RelativeDocumentMoniker": "PharmacyApp\\Program.cs",
@@ -163,12 +219,11 @@
               "RelativeToolTip": "PharmacyApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T10:33:03.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T10:33:03.265Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\appsettings.json",
               "RelativeDocumentMoniker": "PharmacyApp\\appsettings.json",
@@ -176,37 +231,35 @@
               "RelativeToolTip": "PharmacyApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-10T10:32:34.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T10:32:34.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Login.cshtml",
-              "RelativeDocumentMoniker": "PharmacyApp\\Pages\\Login.cshtml",
-              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Login.cshtml",
-              "RelativeToolTip": "PharmacyApp\\Pages\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T10:09:53.47Z",
-              "EditorCaption": ""
+              "DocumentIndex": 13,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "PharmacyApp\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "PharmacyApp\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-10T10:11:54.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "PharmacyApp\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Index.cshtml",
-              "RelativeToolTip": "PharmacyApp\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T09:07:20.938Z"
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "PharmacyApp\\Pages\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "PharmacyApp\\Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T10:15:26.839Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "scripts.js",
               "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\wwwroot\\js\\scripts.js",
               "RelativeDocumentMoniker": "PharmacyApp\\wwwroot\\js\\scripts.js",
@@ -218,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "PharmacyApp\\Pages\\Index.cshtml.cs",
@@ -230,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "PharmacyApp.csproj",
               "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\PharmacyApp.csproj",
               "RelativeDocumentMoniker": "PharmacyApp\\PharmacyApp.csproj",
@@ -242,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "PharmacyApp\\Properties\\launchSettings.json",
@@ -254,19 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "PharmacyApp\\Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\Privacy.cshtml",
-              "RelativeToolTip": "PharmacyApp\\Pages\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T10:32:54.705Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "PharmacyApp",
               "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\PharmacyApp.csproj",
               "RelativeDocumentMoniker": "PharmacyApp\\PharmacyApp.csproj",
@@ -274,18 +315,6 @@
               "RelativeToolTip": "PharmacyApp\\PharmacyApp.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-07T17:39:15.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "PharmacyApp\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\blewd\\WebstormProjects\\proiect_ii\\PharmacyApp\\PharmacyApp\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "PharmacyApp\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T10:09:27.823Z"
             }
           ]
         }

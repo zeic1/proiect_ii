@@ -1,0 +1,11 @@
+C:\Users\blewd\WebstormProjects\proiect_ii\ProductInventoryApp\ProductInventoryApp\bin\Debug\ProductInventory.mdf
+C:\Users\blewd\WebstormProjects\proiect_ii\ProductInventoryApp\ProductInventoryApp\bin\Debug\ProductInventory_log.ldf
+C:\Users\blewd\WebstormProjects\proiect_ii\ProductInventoryApp\ProductInventoryApp\bin\Debug\ProductInventoryApp.exe.config
+C:\Users\blewd\WebstormProjects\proiect_ii\ProductInventoryApp\ProductInventoryApp\bin\Debug\ProductInventoryApp.exe
+C:\Users\blewd\WebstormProjects\proiect_ii\ProductInventoryApp\ProductInventoryApp\bin\Debug\ProductInventoryApp.pdb
+C:\Users\blewd\WebstormProjects\proiect_ii\ProductInventoryApp\ProductInventoryApp\obj\Debug\ProductInventoryApp.csproj.AssemblyReference.cache
+C:\Users\blewd\WebstormProjects\proiect_ii\ProductInventoryApp\ProductInventoryApp\obj\Debug\ProductInventoryApp.Properties.Resources.resources
+C:\Users\blewd\WebstormProjects\proiect_ii\ProductInventoryApp\ProductInventoryApp\obj\Debug\ProductInventoryApp.csproj.GenerateResource.cache
+C:\Users\blewd\WebstormProjects\proiect_ii\ProductInventoryApp\ProductInventoryApp\obj\Debug\ProductInventoryApp.csproj.CoreCompileInputs.cache
+C:\Users\blewd\WebstormProjects\proiect_ii\ProductInventoryApp\ProductInventoryApp\obj\Debug\ProductInventoryApp.exe
+C:\Users\blewd\WebstormProjects\proiect_ii\ProductInventoryApp\ProductInventoryApp\obj\Debug\ProductInventoryApp.pdb

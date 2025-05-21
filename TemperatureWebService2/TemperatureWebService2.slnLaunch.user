@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "TemperatureWebService2\\TemperatureWebService2.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
